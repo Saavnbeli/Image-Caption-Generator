@@ -71,16 +71,6 @@ The model was evaluated using BLEU scores to measure the quality of generated ca
 | BLEU-3         | 0.40   |
 | BLEU-4         | 0.30   |
 
-### Sample Results
-
-Here are some sample results from the trained model:
-
-- **Image:** ![sample1](path_to_sample_image1)
-  - **Generated Caption:** "A man riding a wave on a surfboard."
-  
-- **Image:** ![sample2](path_to_sample_image2)
-  - **Generated Caption:** "A group of people standing around a kitchen."
-
 ## Conclusion and Future Work
 
 ### Conclusion
